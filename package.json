@@ -10,6 +10,7 @@
   "private": "true",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.13.3",
     "react": "^0.14.3"
   },
   "devDependencies": {
