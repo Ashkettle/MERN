@@ -9,6 +9,7 @@ This is a blog engine started as an experiment with the MERN stack.
 - MongoDB
 - Node
 - Express
+- Mongoose
 
 
 
